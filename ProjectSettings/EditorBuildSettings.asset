@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Home.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/useless/ThemaSelect.unity
+    guid: 79d79f5887f427a4680c443c0901293e
+  - enabled: 0
+    path: Assets/Scenes/useless/CheckAngle.unity
+    guid: 55e42e8a3a5ef5346a33813d7c8a62bf
+  - enabled: 0
+    path: Assets/Scenes/ExerciseSelect.unity
+    guid: d4cf9d56e4894f44f923f376ba5c5de5
+  - enabled: 0
+    path: Assets/Scenes/useless/Exercise.unity
+    guid: 93854df5781c02749b38e837711236b0
+  - enabled: 0
+    path: Assets/Scenes/Result.unity
+    guid: 71cdb09a6b6561d46b017271a68350f4
+  - enabled: 0
+    path: Assets/Scenes/Exercise/Exercise_Squat.unity
+    guid: bc873175f669b0e4fb1d84bdc1ecf85c
+  - enabled: 0
+    path: Assets/Scenes/useless/Exercise_external.unity
+    guid: f851811213de08d408ee7aca33b0623a
+  - enabled: 0
+    path: Assets/Scenes/Exercise_Content.unity
+    guid: 608dcc16f6ce2a74fbd86a6f343c3aef
+  - enabled: 0
+    path: Assets/Scenes/Exercise_Content2.unity
+    guid: 9160960971280af458bb47ba9da27449
+  - enabled: 0
+    path: Assets/Scenes/Result2.unity
+    guid: 70ee5bbbd4a7cca4caa244ed56a44e5f
+  - enabled: 0
+    path: Assets/Scenes/WearYourHMD.unity
+    guid: 63794dc5816c58b4fac7dc7527e10c10
+  - enabled: 1
+    path: Assets/Samples/Unity Render Streaming/3.1.0-exp.7/Example/Multiplay/Home1.unity
+    guid: 48165ac1b4d30fc4c8d6ac3aea703988
+  - enabled: 1
+    path: Assets/Samples/Unity Render Streaming/3.1.0-exp.7/Example/Multiplay/Multiplay.unity
+    guid: e807d14debe77b243882e9e5949c104d
+  - enabled: 1
+    path: Assets/Samples/Unity Render Streaming/3.1.0-exp.7/Example/Multiplay/HardwareSelect1.unity
+    guid: dde338d881bf4e44ebdb7d4ef34c6480
+  - enabled: 1
+    path: Assets/Samples/Unity Render Streaming/3.1.0-exp.7/Example/Multiplay/ExerciseSelect1.unity
+    guid: 33983fb0334f4984fbe944fb7cccec46
+  - enabled: 1
+    path: Assets/Samples/Unity Render Streaming/3.1.0-exp.7/Example/Multiplay/Exercise_Content2_1.unity
+    guid: 443ccb8d3806a8e4890a7a1059d5d98e
+  - enabled: 1
+    path: Assets/Samples/Unity Render Streaming/3.1.0-exp.7/Example/Multiplay/Exercise_Content1.unity
+    guid: 9071b9e8ade6fc24f9f752cea95ce93a
+  - enabled: 1
+    path: Assets/Samples/Unity Render Streaming/3.1.0-exp.7/Example/Multiplay/WearYourHMD1.unity
+    guid: 6a409dad802322d4cb384deedb6f967e
+  - enabled: 1
+    path: Assets/Samples/Unity Render Streaming/3.1.0-exp.7/Example/Multiplay/Result1.unity
+    guid: e9797bf5d4985c6489525016b66963c2
+  - enabled: 1
+    path: Assets/Samples/Unity Render Streaming/3.1.0-exp.7/Example/Multiplay/Result2_1.unity
+    guid: 71b6e0a2e92b33c40b52f49ec84d11f0
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2b400e6a6ffc9cb40b254d39e7ed2a0e, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 63590cee715735641a0d590d61e3642e, type: 2}
+    com.unity.renderstreaming.settings: {fileID: 11400000, guid: 039337c008e9a5c44a60f957eae3e450, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f63b3390a0cf0704ea5595274d472f4c, type: 2}

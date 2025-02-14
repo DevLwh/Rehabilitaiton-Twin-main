@@ -1,0 +1,17 @@
+{
+    "HumanData": [
+        {
+            "date": "2023-04-03-12-39",
+            "AngleRange": {
+                "Angle_RArm": [],
+                "Angle_LArm": [],
+                "Angle_RLeg": [],
+                "Angle_LLeg": []
+            },
+            "Content": {
+                "Squat_Deviation": 0.0,
+                "Yoga_Deviation": 0.0
+            }
+        }
+    ]
+}
